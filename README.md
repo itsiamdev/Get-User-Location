@@ -26,7 +26,7 @@ A simple web application that retrieves and displays the user's current location
 
 ## Live Demo 🌐
 
-Check out the live application here: [https://iam269.github.io/Get-User-Location/](https://iam269.github.io/Get-User-Location/)
+Check out the live application here: [https://itsiamdev.github.io/Get-User-Location/](https://itsiamdev.github.io/Get-User-Location/)
 
 ## Browser Support 🌍
 
